@@ -17,7 +17,11 @@ public class Main {
 =======
 		//topic01
 		//topic02
+<<<<<<< OURS
 
+>>>>>>> THEIRS
+=======
+		//feature01
 >>>>>>> THEIRS
 	}
 
