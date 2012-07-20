@@ -14,6 +14,7 @@ public class Main {
 		//topic02
 		//topic03
 		//topic04
+<<<<<<< HEAD
 =======
 		//topic01
 		//topic02
@@ -27,6 +28,9 @@ public class Main {
 =======
 		//feature02
 >>>>>>> THEIRS
+=======
+		//topic05
+>>>>>>> refs/heads/topic
 	}
 
 }
