@@ -22,6 +22,10 @@ public class Main {
 >>>>>>> THEIRS
 =======
 		//feature01
+<<<<<<< OURS
+>>>>>>> THEIRS
+=======
+		//feature02
 >>>>>>> THEIRS
 	}
 
